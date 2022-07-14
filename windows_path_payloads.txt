@@ -1,0 +1,10 @@
+C:\windows\system32\drivers\etc\hosts
+#C:*\apache-tomcat-7.0.1/conf/context.xml、web.xml、server.xml、tomcat-users.xml
+C:\boot.ini //查看系统版本
+C:\Windows\System32\inetsrv\MetaBase.xml
+C:\Windows\repair\sam
+C:\Program Files\mysql\my.ini
+C:\Program Files\mysql\data\mysql\user.MYD
+C:\Windows\php.ini
+C:\Windows\my.ini
+C:\Windows\win.ini
